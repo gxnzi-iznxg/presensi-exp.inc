@@ -3,8 +3,8 @@
 
 1. **Clone repository**
    ```
-   git clone https://github.com/username/nama-project.git
-   cd nama-project
+   git clone https://github.com/gxnzi-iznxg/presensi-exp.inc.git
+   cd presensiexpinc
    ```
 2. **Install dependencies PHP via Composer**
    ```
